@@ -5,4 +5,4 @@ Basic todo app with babel, webpack, react js and redux js toolkit.
 
 ## Screenshots
 
-![App Screenshot](https://manish202.github.io/my-todo-app/Screenshot.png)
+![App Screenshot](https://github.com/manish202/my-todo-app/blob/main/Screenshot.png)
